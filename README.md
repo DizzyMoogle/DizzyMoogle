@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DizzyMoogle or you can call me Sarah!
-- 👀 I’m interested in 3d web and Game development, Shaders and tech art
+- 👀 I’m interested in webgl and Game development, Shaders and tech art
 - 📫 How to reach me 
              📧: sarah.salem33@yahoo.com
              Twitter: @sarah0salem
